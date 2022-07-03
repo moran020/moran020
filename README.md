@@ -1,6 +1,14 @@
-### Hello 👋
+## Hello 👋
 
-[На русском](https://github.com/moran020/moran020/blob/main/README_ru.md)
+I'm Kate, I'm junior Flutter developer 👩‍💻
+
+📱 Currently I create the apps on Dart, using Flutter Framework
+
+🖥 Check my portfolio [here](https://github.com/moran020/portfolio)
+
+⚡ Technologies I use: Dart/Flutter, Figma
+
+💬 Contact me via Telegram: [@moran020](https://t.me/moran_020)
 
 
 <!--
