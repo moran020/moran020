@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello 👋
+
+[На русском](https://github.com/moran020/moran020/blob/main/README_ru.md)
+
 
 <!--
 **moran020/moran020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
